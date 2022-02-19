@@ -1,5 +1,6 @@
 package access;
 class defAccessSpecifier
+{
 { 
   void display() 
      { 
@@ -16,4 +17,6 @@ public class accessSpecifiers1 {
         obj.display(); 
 
 	}
+}
+
 }
